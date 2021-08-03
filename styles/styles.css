@@ -266,7 +266,11 @@ body {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  padding: 10px 76px;
+  padding-top: 13px;
+  padding-left: 42px;
+  padding-right: 28px;
+  padding-bottom: 13px;
+  
 background: #2196F3;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
@@ -279,6 +283,7 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 border:none;
 margin-left: 12px;
+white-space: nowrap;
 
 }
 .solutions {
